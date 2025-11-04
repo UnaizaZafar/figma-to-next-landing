@@ -32,6 +32,7 @@
   /* RADIUS */
   --radius-20: 20px;
   --radius-22: 22px;
+  --radius-50: 50px;
 
   /* DROP SHADOW */
   --drop-shadow-custom: drop-shadow(5px 5px 15px rgba(0, 0, 0, 0.02));
