@@ -46,7 +46,7 @@ export const ourApproachCardsData = [
     id: 1,
     number: "01",
     children: (
-      <div className="rounded-t-xl px-6 pt-6 mt-5 shadow-[0px_-1px_2px_rgba(48, 59, 10, 0.12),-1px_0px_4px_rgba(48, 59, 10, 0.12)] flex flex-col gap-3 w-4/5">
+      <div className="rounded-t-xl pl-6 pt-6 mt-5 shadow-[0px_1px_2px_rgba(48, 59, 10, 0.12),1px_0px_4px_rgba(48, 59, 10, 0.12)] flex flex-col gap-3 w-4/5">
         <div className="flex gap-3 items-center">
           <p className="font-semibold text-xl leading-5.5 text-[#2F333F]">
             Project Overview
