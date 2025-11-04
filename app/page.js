@@ -1,8 +1,9 @@
+import OurProcess from "./components/OurProcess";
 
 export default function Home() {
   return (
-   <>
-   <h1>Nextjs</h1>
-   </>
+    <>
+      <OurProcess />
+    </>
   );
 }
