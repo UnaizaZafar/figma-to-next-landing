@@ -22,7 +22,7 @@ const CardsCarousel = () => {
 
     return (
         <div className="h-auto md:h-100 relative w-full">
-            <div className="mx-auto mt-10 md:mt-20 relative px-2 sm:px-4 md:px-14 md:w-5/6 h-4/5">
+            <div className="mx-auto mt-10 md:mt-20 relative md:w-5/6 h-4/5">
                 <div className="lg:grid lg:grid-cols-[1fr_1.7fr_1fr] gap-4 sm:gap-6 md:gap-8  h-full items-center md:items-start">
                     <div className="hidden lg:block h-full transition-all duration-500 transform scale-y-[0.8] scale-x-90">
                         <CardPlaceholder data={featureCardsData[leftIdx]} isAdjacent={true} />
