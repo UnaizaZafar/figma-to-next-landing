@@ -1,5 +1,3 @@
-import { music, notepadIcon, reminderIcon } from "@/public/utils/svgs"
-import ReminderAlert from "./ReminderAlert"
 import FeaturesCard from "./FeaturesCard"
 
 const ExploreFeaturesSection = () => {
@@ -10,9 +8,9 @@ const ExploreFeaturesSection = () => {
                 <p className="font-lufga bg-linear-to-l bg-clip-text to-[#0FB287] from-[#0A3E94] md:w-[625px] text-transparent font-extrabold text-4xl sm:text-5xl md:text-6xl leading-tight sm:leading-14 uppercase text-center">Explore Our Powerful Features</p>
             </div>
             {/* cards carousal */}
-            <div className="flex items-center gap-10.5">
+            {/* <div className="flex items-center gap-10.5"> */}
                 <FeaturesCard />
-            </div>
+            {/* </div> */}
         </div>
     )
 }
