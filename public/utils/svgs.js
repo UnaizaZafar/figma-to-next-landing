@@ -705,3 +705,23 @@ export const loadingIcon = [
     </defs>
   </svg>,
 ];
+export const arrowRightIcon = [
+  <svg
+    width={58}
+    height={74}
+    key="arrow"
+    viewBox="0 0 58 74"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <rect x="0.5" y="0.5" width={73} height={73} rx="19.5" fill="white" />
+    <rect x="0.5" y="0.5" width={73} height={73} rx="19.5" stroke="#D7DDEB" />
+    <path
+      d="M30.75 27L41.1632 34.5506C43.9456 36.5681 43.9456 37.4319 41.1632 39.4494L30.75 47"
+      stroke="#141B34"
+      strokeWidth="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+  </svg>,
+];
