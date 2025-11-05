@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎨 Task 1 – Figma Design to Responsive Web Page
 
-## Getting Started
+This project is a **responsive web page** built using **Next.js** and **TailwindCSS**, developed as part of Task 1.  
+The goal was to accurately **convert a Figma design into a functional webpage** using CSS, icons, and SVGs
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Pixel-perfect design:** Matches the provided Figma layout as closely as possible  
+- **Responsive design:** Optimized for mobile, tablet, and desktop devices  
+- **Modern stack:** Built using Next.js and TailwindCSS  
+- **SVG used:**  CSS, SVGs, and icons for visuals  
+- **Clean structure:** Reusable and well-structured components  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧩 Tech Stack
 
-## Learn More
+- **Next.js (App Router)**  
+- **TailwindCSS**  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ⚙️ Installation & Setup
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Clone the repository**
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   - git clone (https://github.com/UnaizaZafar/figma-to-next-landing.git)
+    - npm install
+    - npm run dev
